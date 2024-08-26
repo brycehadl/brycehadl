@@ -10,7 +10,7 @@
 
 
 	
-## <picture><img src = ![Uploading Bryce_Hadl.png…]()
+## <picture><img src = ![Bryce_Hadl](https://github.com/user-attachments/assets/217106de-2ac1-43c8-849c-2bdaee44465e)
  width = 50px></picture> **About me**
 
 
