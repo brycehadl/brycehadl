@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = ![Bryce_Hadl](https://github.com/user-attachments/assets/217106de-2ac1-43c8-849c-2bdaee44465e) style="width:500px;height:600px;">
+## <picture><img src = "![Bryce_Hadl](https://github.com/user-attachments/assets/217106de-2ac1-43c8-849c-2bdaee44465e)" alt="Boy in a jacket" style="width:500px;height:600px;">
   **About me**
 
 
